@@ -1,3 +1,5 @@
 flask
 joblib
 numpy
+request
+render_template
