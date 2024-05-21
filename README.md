@@ -1,4 +1,17 @@
 # Spam-Comment-Detector
+## Use:
+```
+git clone https://github.com/TheVixhal/Spam-Comment-Detector.git
+```
+
+```
+cd Spam-Comment-Detector
+```
+
+```
+python app.py
+```
+~ Ctrl+Click on `Running on http://xxx.x.x.1:5000`
 # Model Training Code
 
 # Import Libraries & Data 
