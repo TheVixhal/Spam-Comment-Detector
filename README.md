@@ -29,7 +29,7 @@ X = np.array(data['Comments'])
 y = np.array(data['Label'])
 ```
 
-# CountVect0rizer
+# CountVectorizer
 ```
 CV = CountVectorizer()
 X = CV.fit_transform(X)
